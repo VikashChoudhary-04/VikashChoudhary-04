@@ -93,4 +93,21 @@ LinkedIn: https://www.linkedin.com/in/vikash-choudhary-38046225b/
 
 ---
 
+## 📊 GitHub Stats
+
+![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=VikashChoudhary-04&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VikashChoudhary-04&layout=compact)
+
+---
+
+## 🔥 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VikashChoudhary-04)
+
+---
+
 ⭐ Always learning. Always improving.
+
+---
+
+
