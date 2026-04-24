@@ -1,113 +1,70 @@
-# Hi, I'm Vikash Choudhary 👋
+# 👨‍💻 Vikash Choudhary | Web Application Pentesting
 
-💻 Cybersecurity Enthusiast  
-🔐 Focused on Ethical Hacking, Web Application Security, and Penetration Testing  
-
-I practice cybersecurity through hands-on labs, CTF challenges, and vulnerable environments.  
-My goal is to deeply understand how vulnerabilities are discovered, exploited, and mitigated.
-
-I document my learning journey through **writeups, pentesting notes, automation scripts, and security resources**.
+I perform structured web application security testing focused on identifying, exploiting, and validating real-world vulnerabilities.
 
 ---
 
-## 🚀 Hands-On Practice Platforms
+## 🛠️ Core Skills
 
-- TryHackMe (Top 1%)
-- PortSwigger Web Security Academy
-- PicoCTF
-- DVWA
-- bWAPP
-- WebGoat
-
----
-
-## 🛠 Security Tools
-
-**Web Testing**
-- Burp Suite
-- sqlmap
-
-**Recon & Enumeration**
-- Nmap
-- Gobuster
-- Dirsearch
-- ffuf
-
-**Security Testing**
-- Hydra
-
-**Environment**
-- Linux
-- Bash
-- Python
+* Web Application Penetration Testing
+* SQL Injection (Authentication Bypass)
+* IDOR (Broken Access Control)
+* Cross-Site Scripting (XSS)
+* API Security Testing
+* Vulnerability Analysis & Reporting
 
 ---
 
-## 🔍 Areas of Interest
+## ⚙️ Tools
 
-- Web Application Security
-- Vulnerability Assessment & Penetration Testing (VAPT)
-- OWASP Top 10
-- SQL Injection & IDOR
-- Reconnaissance & Enumeration
-- Linux for Security
-- Networking Basics (TCP/IP, DNS, HTTP/HTTPS)
-- SOC Fundamentals
+* Burp Suite
+* Nmap
+* ffuf
+* dirsearch
 
 ---
 
-## 📂 Key Repositories
+## 🧠 Methodology
 
-🔹 **Pentest Machine Journal**  
-Offensive security portfolio showcasing hands-on pentesting, exploitation techniques, and methodology development.
+My testing approach follows a real-world pentesting workflow:
 
-🔹 **Pentest Notes**  
-Structured penetration testing knowledge base covering methodology, exploitation logic, and reporting fundamentals.
-
-🔹 **subhunt**  
-Modular subdomain enumeration framework written in Go.
-
-🔹 **Linux Cheat Sheet**  
-Useful Linux commands for security testing and enumeration.
-
-🔹 **Safe Blind SQLi Inference Engine**  
-Safety-focused automation framework for blind SQL injection inference in authorized red-team labs.
-
-🔹 **ScopeForgeX** 
-- ScopeForgeX is a question-driven ethical hacking workflow automation tool that runs a full penetration testing process through a single CLI-based interface.
----
-
-## 📈 Currently Learning
-
-- Advanced Web Application Pentesting
-- SOC Analysis & Incident Response
-- Network Threat Detection
-- Python for Security Automation
+1. Reconnaissance (attack surface mapping)
+2. Input identification
+3. Vulnerability testing (XSS, IDOR, SQL Injection)
+4. Exploitation
+5. Validation (false positive removal)
+6. Reporting with business impact
 
 ---
 
-## 🔗 Connect With Me
+## 📂 Featured Work
 
-GitHub: https://github.com/VikashChoudhary-04  
-LinkedIn: https://www.linkedin.com/in/vikash-choudhary-38046225b/
+### 🔴 OWASP Juice Shop — Security Assessment
+
+* SQL Injection → Authentication Bypass (Admin Access)
+* IDOR → Unauthorized Data Access
+* XSS → Client-side Execution
+
+👉 Full project:
+[View Assessment](https://github.com/VikashChoudhary-04/cybersecurity-portfolio/tree/main/projects/real-testing/juice-shop.md)
 
 ---
 
+## 📌 What I Focus On
+
+* Real-world vulnerability exploitation
+* Accurate validation (no false positives)
+* Clear, impact-driven reporting
+
+---
 ## 📊 GitHub Stats
 
 ![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=VikashChoudhary-04&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VikashChoudhary-04&layout=compact)
 
 ---
+## 🔗 Connect
 
-## 🔥 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VikashChoudhary-04)
-
----
-
-⭐ Always learning. Always improving.
+* GitHub: https://github.com/VikashChoudhary-04
+* LinkedIn: https://www.linkedin.com/in/vikash-choudhary-38046225b/
 
 ---
-
-
