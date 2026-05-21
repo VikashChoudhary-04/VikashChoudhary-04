@@ -59,7 +59,7 @@ My testing approach follows a real-world pentesting workflow:
 ---
 ## 📊 GitHub Stats
 
-![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=VikashChoudhary-04&show_icons=true)
+![Vikash's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VikashChoudhary-04&show_icons=true&theme=tokyonight)
 
 ---
 ## 🔗 Connect
