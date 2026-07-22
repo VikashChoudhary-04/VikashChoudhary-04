@@ -1,75 +1,54 @@
 # 👨‍💻 Vikash Choudhary
 
-### Web Application Penetration Tester | API Security | Burp Suite Professional | TryHackMe Top 1%
+### Web Application Penetration Testing | API Security | Security Tooling
 
-Entry-level cybersecurity professional focused on **web application penetration testing**, **API security**, and **reconnaissance automation**. I build practical security tools, perform end-to-end penetration testing simulations, and document my learning through open-source projects.
+Entry-level cybersecurity professional focused on **web application penetration testing**, **API security**, and **reconnaissance automation**. I build practical security tools, perform structured penetration testing simulations, and document hands-on security methodology through open-source projects.
 
 ---
 
 ## 🛠 Core Skills
 
-* Web Application Penetration Testing
-* API Security Testing
-* OWASP Top 10
-* Authentication & Authorization Testing
-* SQL Injection
-* Cross-Site Scripting (XSS)
-* Insecure Direct Object Reference (IDOR)
-* Vulnerability Assessment
-* Reconnaissance
-* Security Reporting
+- Web Application Penetration Testing
+- API Security Testing
+- OWASP Top 10
+- Authentication & Authorization Testing
+- SQL Injection
+- Cross-Site Scripting (XSS)
+- Insecure Direct Object Reference (IDOR)
+- Vulnerability Assessment & Validation
+- Reconnaissance & Attack Surface Mapping
+- Security Reporting
 
 ---
 
 ## ⚙️ Security Tools
 
-### Web Security
+**Web Security**
 
-* Burp Suite Professional
-* sqlmap
-* ffuf
-* Gobuster
-* WhatWeb
+Burp Suite Professional • sqlmap • ffuf • Gobuster • WhatWeb
 
-### Reconnaissance
+**Reconnaissance & Assessment**
 
-* Nmap
-* Subfinder
-* Amass
-* httpx
-* dnsx
-* Wappalyzer
+Nmap • Subfinder • Amass • httpx • dnsx • Nuclei • Wappalyzer
 
-### Assessment
+**Development**
 
-* Nuclei
-* WPScan
-
-### Security Operations
-
-* Splunk
-* Wireshark
-
-### Development
-
-* Python
-* Git
-* GitHub
+Python • Git • GitHub
 
 ---
 
-## 🧠 Testing Methodology
+## 🧠 Pentesting Methodology
 
-- My workflow follows a structured penetration testing process:
+My testing workflow follows a structured process:
 
-  1. Reconnaissance
-  2. Attack Surface Mapping
-  3. Input Discovery
-  4. Vulnerability Assessment
-  5. Exploitation & Validation
-  6. Evidence Collection
-  7. Impact Assessment
-  8. Professional Reporting
+1. Reconnaissance
+2. Attack Surface Mapping
+3. Input & Endpoint Discovery
+4. Vulnerability Assessment
+5. Exploitation & Validation
+6. Evidence Collection
+7. Impact Assessment
+8. Professional Reporting
 
 ---
 
@@ -77,60 +56,59 @@ Entry-level cybersecurity professional focused on **web application penetration 
 
 ### 🔍 ScopeForgeX
 
-- Reconnaissance toolkit for automated target discovery, HTTP probing, and vulnerability assessment.
+Automated reconnaissance and security assessment toolkit designed for structured penetration-testing workflows.
+
+**Demonstrates:** security automation, reconnaissance workflow engineering, attack-surface discovery, and Python development.
 
 ---
 
 ### 🌐 Subhunt
 
-- Python-based subdomain enumeration tool supporting practical reconnaissance workflows.
+Subdomain enumeration tool designed to support practical reconnaissance and attack-surface discovery.
+
+**Demonstrates:** focused security tooling, subdomain discovery, and reconnaissance automation.
 
 ---
 
-### 🛡 Burp Suite Mastery
+### 🛡️ Burp Suite Mastery
 
-- Comprehensive Burp Suite learning repository with practical labs, methodology, and notes.
+Hands-on Burp Suite knowledge base covering web penetration-testing workflows, practical labs, methodology, and interview preparation.
+
+**Demonstrates:** Burp Suite proficiency, web application testing methodology, and structured technical documentation.
 
 ---
 
 ### 🎯 MiniCorp Red Team Simulation
 
-- End-to-end penetration testing simulation covering reconnaissance, validation, documentation, and reporting.
+Simulated end-to-end penetration test covering reconnaissance, vulnerability validation, evidence collection, impact analysis, and professional reporting.
+
+**Demonstrates:** complete penetration-testing methodology and security assessment documentation.
 
 ---
 
-## 🏆 Highlights
+## 🏆 Hands-On Security
 
-* 🥇 Top **1%** on **TryHackMe**
-* 🛠 Built multiple open-source cybersecurity projects
-* 🔬 Hands-on experience with DVWA and OWASP Juice Shop
-* 📖 Practical focus on offensive security and web application testing
+- 🥇 Achieved **Top 1% on TryHackMe**
+- 🧪 Practiced web application security through **PortSwigger Web Security Academy**
+- 🔬 Performed hands-on testing with **DVWA** and **OWASP Juice Shop**
+- 🛠️ Built open-source cybersecurity tools and documentation projects
+- 🔍 Practiced structured reconnaissance, vulnerability validation, and security reporting
 
 ---
 
-## 📜 Certifications
+## 📜 Relevant Certifications
 
-* Advanced Penetration Testing
-* Web Penetration Testing
-* Mobile Pentesting
-* AWS Security
-* End Point Security
-* Ethical Hacking
-* Python Programming
-* AWS Associate
-* In-depth Advanced Networking
-* Linux Essentials
+- Advanced Penetration Testing — Craw Security
+- Web Penetration Testing — Craw Security
+- Mobile Pentesting — Craw Security
+- IoT Pentesting — Craw Security
+- Ethical Hacking — Craw Security
+- In-depth Advanced Networking — Craw Security
+- Linux Essentials — Craw Security
 
 ---
 
 ## 📫 Connect
 
-* **GitHub:** github.com/VikashChoudhary-04
-* **LinkedIn:** linkedin.com/in/vikash-choudhary-38046225b
-* **Email:** [vikkychoudhary12052004@gmail.com](mailto:vikkychoudhary12052004@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![Vikash's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VikashChoudhary-04&show_icons=true&theme=tokyonight)
+- **LinkedIn:** linkedin.com/in/vikash-choudhary-38046225b
+- **Email:** [vikkychoudhary12052004@gmail.com](mailto:vikkychoudhary12052004@gmail.com)
