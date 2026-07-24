@@ -64,7 +64,7 @@ Automated reconnaissance and security assessment toolkit designed for structured
 
 ### 🌐 Subhunt
 
-Subdomain enumeration tool designed to support practical reconnaissance and attack-surface discovery.
+Active subdomain-enumeration tool built in Go using DNS over HTTPS (DoH), with concurrent scanning, resolver failover, wildcard detection, and automation-friendly output.
 
 **Demonstrates:** focused security tooling, subdomain discovery, and reconnaissance automation.
 
