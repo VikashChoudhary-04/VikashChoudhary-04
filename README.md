@@ -54,7 +54,7 @@ My testing workflow follows a structured process:
 
 ## 📂 Featured Projects
 
-### 🔍 ScopeForgeX
+### 🔍 [ScopeForgeX](https://github.com/VikashChoudhary-04/ScopeForgeX)
 
 Automated reconnaissance and security assessment toolkit designed for structured penetration-testing workflows.
 
@@ -62,27 +62,27 @@ Automated reconnaissance and security assessment toolkit designed for structured
 
 ---
 
-### 🌐 Subhunt
+### 🌐 [Subhunt](https://github.com/VikashChoudhary-04/subhunt)
 
 Active subdomain-enumeration tool built in Go using DNS over HTTPS (DoH), with concurrent scanning, resolver failover, wildcard detection, and automation-friendly output.
 
-**Demonstrates:** focused security tooling, subdomain discovery, and reconnaissance automation.
+**Demonstrates:** Go development, active subdomain enumeration, DNS over HTTPS, concurrency, and reconnaissance tooling.
 
 ---
 
-### 🛡️ Burp Suite Mastery
+### 🛡️ [Burp Suite Mastery](https://github.com/VikashChoudhary-04/Burp-Suite-Mastery)
 
-Hands-on Burp Suite knowledge base covering web penetration-testing workflows, practical labs, methodology, and interview preparation.
+Complete 18-module Burp Suite learning path covering web application security testing, practical workflows, professional pentesting methodology, and interview preparation.
 
-**Demonstrates:** Burp Suite proficiency, web application testing methodology, and structured technical documentation.
+**Demonstrates:** Burp Suite proficiency, web application testing methodology, practical security workflows, and structured technical documentation.
 
 ---
 
-### 🎯 MiniCorp Red Team Simulation
+### 🎯 [MiniCorp Red Team Simulation](https://github.com/VikashChoudhary-04/MiniCorp-Red-Team-Simulation)
 
 Simulated end-to-end penetration test covering reconnaissance, vulnerability validation, evidence collection, impact analysis, and professional reporting.
 
-**Demonstrates:** complete penetration-testing methodology and security assessment documentation.
+**Demonstrates:** complete penetration-testing methodology, vulnerability validation, evidence collection, and professional security reporting.
 
 ---
 
@@ -105,6 +105,10 @@ Simulated end-to-end penetration test covering reconnaissance, vulnerability val
 - Ethical Hacking — Craw Security
 - In-depth Advanced Networking — Craw Security
 - Linux Essentials — Craw Security
+- End Point Security - Craw Security
+- AWS Security - Craw Security
+- Python Programming - Craw Security
+- AWS Associate - Craw Security
 
 ---
 
