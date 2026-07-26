@@ -98,17 +98,16 @@ Simulated end-to-end penetration test covering reconnaissance, vulnerability val
 
 ## 📜 Relevant Certifications
 
-- Advanced Penetration Testing — Craw Security
-- Web Penetration Testing — Craw Security
-- Mobile Pentesting — Craw Security
-- IoT Pentesting — Craw Security
-- Ethical Hacking — Craw Security
-- In-depth Advanced Networking — Craw Security
-- Linux Essentials — Craw Security
-- End Point Security - Craw Security
-- AWS Security - Craw Security
-- Python Programming - Craw Security
-- AWS Associate - Craw Security
+- In-depth Advanced Networking Certification - Craw Security
+- Linux Essential Training Certification - Craw Security
+- Python Certification - Craw Security
+- Ethical Hacking Certification (aka Ethical Hacking and Countermeasures Certification) - Craw Security
+- Advanced Penetration Testing Certification (aka Penetration Testing & Security Analyst Certification) - Craw Security
+- Web Penetration Testing Certification (aka Top 20 Critical Web Application Certification) - Craw Security
+- Mobile Application Security Certification - Craw Security
+- End Point Security Certification - Craw Security
+- AWS Associate Certification - Craw Security
+- AWS Security Certification - Craw Security
 
 ---
 
